@@ -1,0 +1,14 @@
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\ExercEnum\exercEnum\bin\Debug\netcoreapp3.1\exercEnum.exe
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\ExercEnum\exercEnum\bin\Debug\netcoreapp3.1\exercEnum.deps.json
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\ExercEnum\exercEnum\bin\Debug\netcoreapp3.1\exercEnum.runtimeconfig.json
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\ExercEnum\exercEnum\bin\Debug\netcoreapp3.1\exercEnum.runtimeconfig.dev.json
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\ExercEnum\exercEnum\bin\Debug\netcoreapp3.1\exercEnum.dll
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\ExercEnum\exercEnum\bin\Debug\netcoreapp3.1\exercEnum.pdb
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\ExercEnum\exercEnum\obj\Debug\netcoreapp3.1\exercEnum.csproj.AssemblyReference.cache
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\ExercEnum\exercEnum\obj\Debug\netcoreapp3.1\exercEnum.GeneratedMSBuildEditorConfig.editorconfig
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\ExercEnum\exercEnum\obj\Debug\netcoreapp3.1\exercEnum.AssemblyInfoInputs.cache
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\ExercEnum\exercEnum\obj\Debug\netcoreapp3.1\exercEnum.AssemblyInfo.cs
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\ExercEnum\exercEnum\obj\Debug\netcoreapp3.1\exercEnum.csproj.CoreCompileInputs.cache
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\ExercEnum\exercEnum\obj\Debug\netcoreapp3.1\exercEnum.dll
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\ExercEnum\exercEnum\obj\Debug\netcoreapp3.1\exercEnum.pdb
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\ExercEnum\exercEnum\obj\Debug\netcoreapp3.1\exercEnum.genruntimeconfig.cache
